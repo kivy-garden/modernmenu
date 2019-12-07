@@ -1,7 +1,7 @@
 import pytest
 
 
-def test_flower():
-    from kivy_garden.flower import FlowerLabel
-    label = FlowerLabel()
-    assert label.text == 'Demo flower'
+def test_modern_menu_instantiation():
+    from kivy_garden.modernmenu import ModernMenu
+    menu = ModernMenu()
+    assert menu.radius == 50
