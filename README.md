@@ -19,7 +19,7 @@ for a long touch (arbitrary time) staying in a short distance of its
 origin point, i.e: "long press" actions.
 
 The ModernMenu widget is a configurable menu based on a circle with the
-arious options appearing around. It animates the transitions to
+various options appearing around. It animates the transitions to
 submenus and provides a nice "back/close" button in the center.
 
 The ModernMenuLabel is the default class used to display the elements of
